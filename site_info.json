@@ -234,34 +234,14 @@
       "longitude": 174.87
     }
   },
-  "BIK": {
-    "EUROCOM": {
-      "height": ["300m"],
-      "height_name": ["300magl"],
-      "height_station_masl": 150.0,
-      "latitude": 53.23,
-      "long_name": "Bialystok, Poland",
-      "longitude": 23.03
-    }
-  },
   "BIR": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["10m"],
       "height_name": ["10magl"],
       "height_station_masl": 190.0,
       "latitude": 58.39,
       "long_name": "Birkenes Observatory, Norway",
       "longitude": 8.25
-    }
-  },
-  "BIS": {
-    "EUROCOM": {
-      "height": ["47m"],
-      "height_name": ["47magl"],
-      "height_station_masl": 73.0,
-      "latitude": 44.38,
-      "long_name": "Biscarosse, France",
-      "longitude": -1.23
     }
   },
   "BKT": {
@@ -364,15 +344,7 @@
       "long_name": "Bilsdale, UK",
       "longitude": -1.15033
     },
-    "EUROCOM": {
-      "height": ["108m", "42m", "248m"],
-      "height_name": ["110magl", "50magl", "250magl"],
-      "height_station_masl": 380.0,
-      "latitude": 54.35858,
-      "long_name": "Bilsdale, UK",
-      "longitude": -1.15033
-    },
-    "NOAA": {
+     "NOAA": {
       "height": ["108m", "42m", "248m"],
       "height_name": ["110magl", "50magl", "250magl"],
       "height_station_masl": 380.0,
@@ -441,14 +413,6 @@
       "long_name": "Cabauw Tower, Netherlands",
       "longitude": -4.926
     },
-    "EUROCOM": {
-      "height": ["120m", "20m", "60m", "200m"],
-      "height_name": ["120magl", "20magl", "60magl", "200magl"],
-      "height_station_masl": 213.0,
-      "latitude": 58.97,
-      "long_name": "Cabauw Tower, Netherlands",
-      "longitude": -4.926
-    }
   },
   "CBY": {
     "EC": {
@@ -580,7 +544,7 @@
       "long_name": "Monte Cimone, Italy",
       "longitude": 10.701389
     },
-    "EUROCOM": {
+    "ICOS": {
       "height": ["10m"],
       "height_name": ["10magl"],
       "height_station_masl": 2155.0,
@@ -598,14 +562,6 @@
     }
   },
   "CMO": {
-    "EUROCOM": {
-      "height": ["10m"],
-      "height_name": ["10magl"],
-      "height_station_masl": 30.0,
-      "latitude": 45.478,
-      "long_name": "Cape Mears, Oregon",
-      "longitude": -123.969
-    },
     "NOAA": {
       "height_station_masl": 30.0,
       "latitude": 45.478,
@@ -1178,7 +1134,7 @@
     }
   },
   "HEI": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["30m"],
       "height_name": ["30magl"],
       "height_station_masl": 116.0,
@@ -1189,14 +1145,6 @@
   },
   "HFD": {
     "DECC": {
-      "height": ["100m", "50m"],
-      "height_name": ["100magl", "50magl"],
-      "height_station_masl": 150.0,
-      "latitude": 50.97675,
-      "long_name": "Heathfield, UK",
-      "longitude": 0.23048
-    },
-    "EUROCOM": {
       "height": ["100m", "50m"],
       "height_name": ["100magl", "50magl"],
       "height_station_masl": 150.0,
@@ -1279,7 +1227,7 @@
     }
   },
   "HUN": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["115m"],
       "height_name": ["115magl"],
       "height_station_masl": 248.0,
@@ -1471,13 +1419,6 @@
     }
   },
   "IZO": {
-    "EUROCOM": {
-      "height": ["10m"],
-      "height_station_masl": 2372.0,
-      "latitude": 28.309,
-      "long_name": "Izana, Tenerife",
-      "longitude": -16.499
-    },
     "NOAA": {
       "height": ["10m"],
       "height_name": ["10magl"],
@@ -1496,7 +1437,7 @@
       "long_name": "Jungfraujoch, Switzerland",
       "longitude": 7.979167
     },
-    "EUROCOM": {
+    "ICOS": {
       "height": ["10m"],
       "height_name": ["10magl"],
       "height_station_masl": 3570.0,
@@ -1511,16 +1452,6 @@
       "long_name": "Jungfraujoch, Switzerland",
       "heights": ["5m"],
       "height_name": ["5magl"]
-    }
-  },
-  "KAS": {
-    "EUROCOM": {
-      "height": ["10m"],
-      "height_name": ["10magl"],
-      "height_station_masl": 1989.0,
-      "latitude": 49.232,
-      "long_name": "Kasprowy, Poland",
-      "longitude": 19.982
     }
   },
   "KCO": {
@@ -1669,24 +1600,8 @@
       "longitude": 120.87
     }
   },
-  "LMP": {
-    "EUROCOM": {
-      "height": ["8m"],
-      "height_name": ["8magl"],
-      "height_station_masl": 45.0,
-      "latitude": 35.52,
-      "long_name": "Lampedusa, Italy",
-      "longitude": 12.62
-    },
-    "NOAA": {
-      "height_station_masl": 45.0,
-      "latitude": 35.52,
-      "long_name": "Lampedusa, Italy",
-      "longitude": 12.62
-    }
-  },
   "LUT": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["60m"],
       "height_name": ["60magl"],
       "height_station_masl": 1.0,
@@ -1761,14 +1676,6 @@
   },
   "MHD": {
     "AGAGE": {
-      "height": ["10m"],
-      "height_name": ["10magl"],
-      "height_station_masl": 5.0,
-      "latitude": 53.32611,
-      "long_name": "Mace Head, Ireland",
-      "longitude": -9.90389
-    },
-    "EUROCOM": {
       "height": ["10m"],
       "height_name": ["10magl"],
       "height_station_masl": 5.0,
@@ -2047,7 +1954,7 @@
     }
   },
   "OPE": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["120m"],
       "height_name": ["120magl"],
       "height_station_masl": 390.0,
@@ -2103,7 +2010,7 @@
     }
   },
   "PAL": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["5m"],
       "height_name": ["5magl"],
       "height_station_masl": 565.0,
@@ -2284,16 +2191,6 @@
       "longitude": 180.0
     }
   },
-  "PRS": {
-    "EUROCOM": {
-      "height": ["10m"],
-      "height_name": ["10magl"],
-      "height_station_masl": 3480.0,
-      "latitude": 45.93,
-      "long_name": "Plateau Rosa, Italy",
-      "longitude": 7.707
-    }
-  },
   "PSA": {
     "NOAA": {
       "height": ["10m"],
@@ -2339,7 +2236,7 @@
       "long_name": "Ridge Hill, UK",
       "longitude": -2.5399
     },
-    "EUROCOM": {
+    "ICOS": {
       "height": ["90m", "45m"],
       "height_name": ["90magl", "45magl"],
       "height_station_masl": 200.0,
@@ -2418,6 +2315,20 @@
       "long_name": "Ryori, Japan",
       "heights": ["20m"],
       "height_name": ["20magl"]
+    }
+  },
+  "SAC": {
+    "ICOS": {
+      "height": [
+        "100m"
+      ],
+      "height_name": [
+        "100magl"
+      ],
+      "height_station_masl": 160,
+      "latitude": 48.7227,
+      "long_name": "Saclay, France",
+      "longitude": 2.142
     }
   },
   "SAN": {
@@ -2605,24 +2516,6 @@
       "longitude": -170.5644
     }
   },
-  "SMR": {
-    "EUROCOM": {
-      "height": ["125m"],
-      "height_name": ["125magl"],
-      "height_station_masl": 181.0,
-      "latitude": 61.847,
-      "long_name": "Hyytiälä, Finland",
-      "longitude": 24.295
-    },
-    "NOAA": {
-      "latitude": 61.8474,
-      "longitude": 24.2948,
-      "height_station_masl": 181.0,
-      "long_name": "Hyytiala, Finland",
-      "heights": ["125m"],
-      "height_name": ["125magl"]
-    }
-  },
   "SNG": {
     "IITM": {
       "height": ["10m"],
@@ -2657,7 +2550,7 @@
     }
   },
   "SSL": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["12m"],
       "height_name": ["12magl"],
       "height_station_masl": 1205.0,
@@ -2722,7 +2615,7 @@
       "heights": ["85m"],
       "height_name": ["85magl"]
     },
-    "EUROCOM": {
+    "ICOS": {
       "latitude": 64.14,
       "longitude": 19.46,
       "height_station_masl": 235.0,
@@ -2745,14 +2638,6 @@
     "DECC": {
       "height": ["185m", "54m", "100m"],
       "height_name": ["185magl", "50magl", "100magl"],
-      "height_station_masl": 50.0,
-      "latitude": 52.51775,
-      "long_name": "Tacolneston Tower, UK",
-      "longitude": 1.13872
-    },
-    "EUROCOM": {
-      "height": ["100m", "54m", "185m"],
-      "height_name": ["100magl", "50magl", "185magl"],
       "height_station_masl": 50.0,
       "latitude": 52.51775,
       "long_name": "Tacolneston Tower, UK",
@@ -2921,7 +2806,7 @@
     }
   },
   "TRN": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["180m"],
       "height_name": ["180magl"],
       "height_station_masl": 131.0,
@@ -2940,14 +2825,6 @@
   },
   "TTA": {
     "DECC": {
-      "height": ["222m"],
-      "height_name": ["222magl"],
-      "height_station_masl": 300.0,
-      "latitude": 56.55511,
-      "long_name": "Angus Tower, UK",
-      "longitude": -2.98598
-    },
-    "EUROCOM": {
       "height": ["222m"],
       "height_name": ["222magl"],
       "height_station_masl": 300.0,
@@ -3022,7 +2899,7 @@
     }
   },
   "WAO": {
-    "EUROCOM": {
+    "ICOS": {
       "height": ["21m"],
       "height_name": ["20magl"],
       "height_station_masl": 10.0,
