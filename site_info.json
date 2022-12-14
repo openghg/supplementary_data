@@ -53,6 +53,16 @@
       "longitude": -62.5072
     }
   },
+  "AMB": {
+    "MPI": {
+      "height": ["27m"],
+      "height_name": ["30magl"],
+      "height_station_masl": 20.0,
+      "latitude": 69.6200,
+      "long_name": "Ambarchik, Russia",
+      "longitude": 162.3000
+    }
+  },
   "AMS": {
     "NOAA": {
       "height": ["10m"],
@@ -216,6 +226,25 @@
       "height_name": ["60magl"]
     }
   },
+  "BCOB": {
+    "AGAGE": {"height": ["10m"],
+      "height_name": ["10magl"],
+      "height_station_masl": 0.0,
+      "latitude": 22.17,
+      "long_name": "Bangladesh Climate Observatory - Bhola Island",
+      "longitude": 90.71
+    }
+  },
+  "BER": {
+    "AGAGE": {
+      "height": ["212m"],
+      "height_name": ["212magl"],
+      "height_station_masl": 797.0,
+      "latitude": 47.189569,
+      "long_name": "Beromunster",
+      "longitude": 8.175482
+    }
+  },
   "BGI": {
     "NOAA": {
       "height_station_masl": 355.1,
@@ -286,6 +315,14 @@
       "latitude": 40.8,
       "long_name": "Beaver Crossing, Nebraska, United States",
       "longitude": -97.18
+    }
+  },
+  "BOLIVIA-TWIN-OTTER": {
+    "BAS": {
+      "height": ["various"],
+      "height_name": ["various"],
+      "long_name": "Bolivia twin otter",
+      "platform": "aircraft"
     }
   },
   "BRA": {
@@ -404,6 +441,16 @@
       "longitude": -162.72
     }
   },
+  "CBR": {
+    "FMI": {
+      "height": ["10m"],
+      "height_name": ["10magl"],
+      "height_station_masl": 20.0,
+      "latitude": 79.2804,
+      "long_name": "Cape Baranov Ice Research Station",
+      "longitude": 101.6176
+    }
+  },
   "CBW": {
     "ECN": {
       "height": ["120m", "20m", "60m", "200m"],
@@ -412,7 +459,7 @@
       "latitude": 58.97,
       "long_name": "Cabauw Tower, Netherlands",
       "longitude": -4.926
-    },
+    }
   },
   "CBY": {
     "EC": {
@@ -577,6 +624,14 @@
       "latitude": 43.167,
       "long_name": "Cape Ochiishi, Japan",
       "longitude": 145.5
+    }
+  },
+  "CONGO-FAAM": {
+    "UMAN": {
+      "height": ["various"],
+      "height_name": ["various"],
+      "long_name": "FAAM flights Congo, Uganda, Zambia",
+      "platform": "aircraft"
     }
   },
   "COS": {
@@ -1097,6 +1152,20 @@
       "longitude": 126.1618
     }
   },
+  "GST": {
+    "COP26": {
+      "height": [
+        "100m"
+      ],
+      "height_name": [
+        "100magl"
+      ],
+      "height_station_masl": 5.0,
+      "latitude": 55.859238,
+      "long_name": "Glasgow Science Tower, UK",
+      "longitude": -4.29618
+    }
+  },
   "HAA": {
     "NOAA": {
       "height_station_masl": 3.0,
@@ -1143,6 +1212,16 @@
       "longitude": 8.674
     }
   },
+  "HEL": {
+    "ICOS": {
+      "height": ["110m"],
+      "height_name": ["110magl"],
+      "height_station_masl": 43.0,
+      "latitude": 54.1804,
+      "long_name": "Helgoland, Germany",
+      "longitude": 7.8833
+    }
+  },
   "HFD": {
     "DECC": {
       "height": ["100m", "50m"],
@@ -1173,7 +1252,7 @@
   },
   "HFT": {
     "LGHG": {
-      "height_name": "45magl",
+      "height_name": ["45magl"],
       "height_station_masl": "45m",
       "latitude": 51.608031,
       "long_name": "Highfield Tower",
@@ -1472,6 +1551,20 @@
       "longitude": -80.158
     }
   },
+  "KJN": {
+    "UEXETER": {
+      "height": [
+        "5m"
+      ],
+      "height_name": [
+        "5magl"
+      ],
+      "height_station_masl": 2.0,
+      "latitude": 70.8531,
+      "long_name": "Kjolnes Atmospheric Observatory, Norway",
+      "longitude": 29.2359
+    }
+  },
   "KLM": {
     "NOAA": {
       "latitude": 39.99,
@@ -1574,6 +1667,71 @@
       "height_name": ["10magl"]
     }
   },
+  "LHFT": {
+    "LGHG": {
+      "height": [
+        "45m"
+      ],
+      "height_name": [
+        "45magl"
+      ],
+      "latitude": 51.608031,
+      "long_name": "Highfield Tower, London, UK",
+      "longitude": 0.174544
+    }
+  },
+  "LSTJ": {
+    "LGHG": {
+      "height": [
+        "20m"
+      ],
+      "height_name": [
+        "20magl"
+      ],
+      "latitude": 51.58015486,
+      "long_name": "St Jude's Church, London, UK",
+      "longitude": -0.189911658
+    }
+  },
+  "LSTM": {
+    "LGHG": {
+      "height": [
+        "36m"
+      ],
+      "height_name": [
+        "36magl"
+      ],
+      "latitude": 51.504423,
+      "long_name": "St Mary's Church, London, UK",
+      "longitude": -0.305762
+    }
+  },
+  "LWMH": {
+    "LGHG": {
+      "height": [
+        "40m"
+      ],
+      "height_name": [
+        "40magl"
+      ],
+      "latitude": 51.577558,
+      "long_name": "University of Westminster - Harrow Campus, London, UK",
+      "longitude": -0.324358
+    }
+  },
+  "LWGF": {
+    "LGHG": {
+      "height": [
+        "6m"
+      ],
+      "height_name": [
+        "6magl"
+      ],
+      "latitude": 51.700313,
+      "long_name": "Woodgreen Farm, London, UK",
+      "longitude": -0.083932
+    }
+  },
   "LLB": {
     "EC": {
       "height": ["50m", "48m"],
@@ -1646,6 +1804,16 @@
       "latitude": 43.977,
       "long_name": "Mt. Bachelor Observatory, USA",
       "longitude": -121.686
+    }
+  },
+  "MCOH": {
+    "AGAGE": {
+      "height": ["15m"],
+      "height_name": ["15magl"],
+      "height_station_masl": 1.5,
+      "latitude": 6.77643,
+      "long_name": "Maldives Climate Observatory - Hanimaadhoo",
+      "longitude": 73.18314
     }
   },
   "MCM": {
@@ -1812,6 +1980,20 @@
       "latitude": 34.2246,
       "long_name": "Mt. Wilson Observatory, United States",
       "longitude": -118.0586
+    }
+  },
+  "NAS": {
+    "TU": {
+      "height": [
+        "3m"
+      ],
+      "height_name": [
+        "5magl"
+      ],
+      "height_station_masl": 40.0,
+      "latitude": 78.9167,
+      "long_name": "Ny-Alesund, Svalbard, Norway",
+      "longitude": 11.9333
     }
   },
   "NAT": {
@@ -2265,7 +2447,7 @@
   },
   "RHO": {
     "LGHG": {
-      "height_name": "20magl",
+      "height_name": ["20magl"],
       "height_station_masl": "20m",
       "latitude": 51.427582,
       "long_name": "Royal Holloway",
@@ -2319,12 +2501,8 @@
   },
   "SAC": {
     "ICOS": {
-      "height": [
-        "100m"
-      ],
-      "height_name": [
-        "100magl"
-      ],
+      "height": ["100m"],
+      "height_name": ["100magl"],
       "height_station_masl": 160,
       "latitude": 48.7227,
       "long_name": "Saclay, France",
@@ -2493,7 +2671,7 @@
   },
   "SMA": {
     "LGHG": {
-      "height_name": "36magl",
+      "height_name": ["36magl"],
       "height_station_masl": "36m",
       "latitude": 51.504423,
       "long_name": "St Mary's Church",
@@ -2569,7 +2747,7 @@
   },
   "STJ": {
     "LGHG": {
-      "height_name": "20magl",
+      "height_name": ["20magl"],
       "height_station_masl": "20m",
       "latitude": 51.580154,
       "long_name": "St Jude's Church",
@@ -2730,6 +2908,16 @@
       "longitude": 0.32127
     }
   },
+  "TOH": {
+    "ICOS": {
+      "height": ["147m"],
+      "height_name": ["147magl"],
+      "height_station_masl": 801.0,
+      "latitude": 51.8088,
+      "long_name": "Torfhaus, Germany",
+      "longitude": 10.535
+    }
+  },
   "TMB": {
     "CRANFIELD": {
       "height": ["5m"],
@@ -2859,7 +3047,7 @@
   },
   "UOW": {
     "LGHG": {
-      "height_name": "40magl",
+      "height_name": ["40magl"],
       "height_station_masl": "40m",
       "latitude": 51.577558,
       "long_name": "University of Westminster, Harrow Campus",
@@ -2942,6 +3130,20 @@
       "longitude": -91.3529
     }
   },
+  "WES": {
+    "ICOS": {
+      "height": [
+        "14m"
+      ],
+      "height_name": [
+        "14magl"
+      ],
+      "height_station_masl": 12.0,
+      "latitude": 54.9231,
+      "long_name": "Westerland, Germany",
+      "longitude": 8.308
+    }
+  },
   "WGC": {
     "NOAA": {
       "height": ["91m"],
@@ -2954,7 +3156,7 @@
   },
   "WGF": {
     "LGHG": {
-      "height_name": "6magl",
+      "height_name": ["6magl"],
       "height_station_masl": "6m",
       "latitude": 51.700313,
       "long_name": "Woodgreen Farm",
