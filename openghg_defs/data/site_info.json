@@ -3098,7 +3098,7 @@
     "ICOS": {
       "height": ["10m"],
       "height_name": ["10magl"],
-      "height_station_masl": 21.0,
+      "height_station_masl": 17.0,
       "latitude": 52.95042,
       "long_name": "Weybourne Observatory, UK",
       "longitude": 1.12194
@@ -3106,7 +3106,7 @@
     "UCAM": {
       "height": ["10m"],
       "height_name": ["10magl"],
-      "height_station_masl": 21.0,
+      "height_station_masl": 17.0,
       "latitude": 52.95042,
       "long_name": "Weybourne Observatory, UK",
       "longitude": 1.12194
@@ -3114,7 +3114,7 @@
     "UEA": {
       "height": ["10m"],
       "height_name": ["10magl"],
-      "height_station_masl": 21.0,
+      "height_station_masl": 17.0,
       "latitude": 52.95042,
       "long_name": "Weybourne Observatory, UK",
       "longitude": 1.12194
