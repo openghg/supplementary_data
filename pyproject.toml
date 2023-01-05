@@ -17,6 +17,7 @@ build-backend = "setuptools.build_meta"
 where = ["."]
 
 [tool.setuptools.package-data]
+"openghg_defs" = ["*"]
 "openghg_defs.data" = ["*"]
 "openghg_defs.data.domain" = ["*"]
 
