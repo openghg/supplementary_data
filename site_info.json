@@ -1,27 +1,11 @@
 {
-  "AAO": {
-    "NOAA": {
-      "height_station_masl": 230.0,
-      "latitude": 40.05,
-      "long_name": "Airborne Aerosol Observatory, Bondville, Illinois, United States",
-      "longitude": -88.37
-    }
-  },
-  "ABP": {
-    "NOAA": {
-      "height_station_masl": 1.0,
-      "latitude": -12.77,
-      "long_name": "Arembepe, Bahia, Brazil",
-      "longitude": -38.17
-    }
-  },
   "ABT": {
     "NOAA": {
       "latitude": 49.0114,
       "longitude": -122.3353,
       "height_station_masl": 60.0,
       "long_name": "Abbotsford, British Columbia, Canada",
-      "heights": ["33m"],
+      "height": ["33m"],
       "height_name": ["33magl"]
     }
   },
@@ -375,7 +359,7 @@
         }
       ],
       "height": ["248m", "108m", "42m"],
-      "height_name": ["250magl", "110magl", "50magl"],
+      "height_name": ["248magl", "110magl", "50magl"],
       "height_station_masl": 380.0,
       "latitude": 54.35858,
       "long_name": "Bilsdale, UK",
@@ -383,7 +367,7 @@
     },
      "NOAA": {
       "height": ["108m", "42m", "248m"],
-      "height_name": ["110magl", "50magl", "250magl"],
+      "height_name": ["110magl", "50magl", "248magl"],
       "height_station_masl": 380.0,
       "latitude": 54.35858,
       "long_name": "Bilsdale, UK",
