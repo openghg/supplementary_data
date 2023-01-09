@@ -99,7 +99,7 @@
       "longitude": 148.4746,
       "height_station_masl": 175.0,
       "long_name": "Arcturus, Queensland, Australia",
-      "heights": ["10m"],
+      "height": ["10m"],
       "height_name": ["10magl"]
     }
   },
@@ -206,7 +206,7 @@
       "longitude": -115.9194,
       "height_station_masl": 160.0,
       "long_name": "Behchoko, Northwest Territories, Canada",
-      "heights": ["60m"],
+      "height": ["60m"],
       "height_name": ["60magl"]
     }
   },
@@ -1642,6 +1642,14 @@
     }
   },
   "LIN": {
+    "ICOS": {
+      "latitude": 52.1663,
+      "longitude": 14.1226,
+      "height_station_masl": 73.0,
+      "long_name": "Lindenberg, Germany",
+      "heights": ["98m"],
+      "height_name": ["98magl"]
+    },
     "NOAA": {
       "latitude": 52.1663,
       "longitude": 14.1226,
